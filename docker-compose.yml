@@ -8,5 +8,7 @@ services:
     ports: 
       - "27015:27015/udp"
       - "27016:27016/udp"
+      - "9876:9876/udp"
+      - "9877:9877/udp"
     restart: unless-stopped
     tty: true
