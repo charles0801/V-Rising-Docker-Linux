@@ -1,6 +1,8 @@
 {
   "Name": "Alex1007's World",
   "Password": "bvbv",
+  "Port": 27015,
+  "QueryPort": 27016,
   "API": {},
   "Rcon": {}
 }
