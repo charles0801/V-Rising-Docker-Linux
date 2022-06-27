@@ -6,6 +6,8 @@
   "RelicSpawnType": 1,
   "CanLootEnemyContainers": false,
   "TeleportBoundItems": false,
+  "ListingOnMasterServer": false,
+  "Secure": false,
   "InventoryStacksModifier": 2.0,
   "DropTableModifier_General": 2.0,
   "DropTableModifier_Missions": 2.0,
